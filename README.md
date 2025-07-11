@@ -54,7 +54,7 @@ A personal finance web platform that allows users to upload and categorize their
 5. **User resolves raw transaction** via frontend and saved in **PostgresDB**
 6. **Frontend fetches data** from backend APIs for display
 
-## 🔖 Reference Materials
+## 🔖 Additional Resources
 
 * Detailed component docs under `/components`
 * Diagrams under `/diagrams`
