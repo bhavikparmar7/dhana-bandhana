@@ -35,6 +35,6 @@ The Python processor handles the core logic of extracting transaction data from 
 
 ---
 
-## 🔗 Additional Details
+## 🔗 Additional Details in Repo
 
 * [dhana-niskarsaka-python](https://github.com/bhavikparmar7/dhana-niskarsaka-python) — *"niskarsaka" means "extraction" in Sanskrit*
