@@ -54,6 +54,6 @@ The backend is built using **NestJS**, a TypeScript-based framework that powers 
 
 ---
 
-## 🔗 Additional Details
+## 🔗 Additional Details in Repo
 
 * [dhana-bandhana-nestjs](https://github.com/bhavikparmar7/dhana-bandhana-nestjs)
