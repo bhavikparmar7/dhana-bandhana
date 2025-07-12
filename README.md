@@ -1,6 +1,6 @@
 # Dhana Bandhana ₹💰₹
 
-A personal finance web platform that allows users to upload and categorize their bank and credit card statements, extract transaction data, and generate insights via a secure and scalable cloud-based system.
+A personal finance web platform that allows users to upload bank/credit card statements, extract transaction data, categorize their transactions, and generate balance sheet via a secure and scalable cloud-based system.
 
 ## 🌐 Live Site
 
@@ -41,3 +41,5 @@ A personal finance web platform that allows users to upload and categorize their
 
 * Detailed component docs under `/components`
 * Diagrams under `/diagrams`
+* UI Screenshots under `/screenshots`
+* Sample usage instructions under `/sample-user` for anyone who wants to try the website
