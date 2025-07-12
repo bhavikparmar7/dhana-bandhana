@@ -27,7 +27,7 @@ After upload:
 - View parsed data from the uploaded file.
 
 You can:
-- Mark and resolve raw transactions.
+- Mark and resolve (categorize) raw transactions.
 - See resolved transactions in **Transactions** page
 
 ---
