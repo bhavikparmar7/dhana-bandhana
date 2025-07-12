@@ -4,7 +4,7 @@ The Python processor handles the core logic of extracting transaction data from 
 
 ---
 
-## ⚙️ Purpose
+## Purpose
 
 * Polls SQS for messages related to new file uploads
 * Downloads files from S3
@@ -14,7 +14,7 @@ The Python processor handles the core logic of extracting transaction data from 
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 * **Python 3.9** (Amazon Linux default)
 * **boto3** for AWS (S3, SQS)
@@ -26,7 +26,7 @@ The Python processor handles the core logic of extracting transaction data from 
 
 ---
 
-## 📦 Deployment Details
+## Deployment Details
 
 * Hosted on **EC2** in public subnet (for now)
 * Installed and run inside a Python `venv`
