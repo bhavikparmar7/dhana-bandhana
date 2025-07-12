@@ -49,7 +49,7 @@ This project is hosted entirely on the cloud with a combination of AWS services 
 
 ---
 
-## 🔐 Security Measures
+## Security Measures
 
 * IAM roles scoped to only required permissions
 * RDS and MongoDB are accessible only from whitelisted IPs or VPC
@@ -58,7 +58,7 @@ This project is hosted entirely on the cloud with a combination of AWS services 
 
 ---
 
-## 🧭 Domains
+## Domains
 
 * `www.dhanabandhana.in` → React frontend (via CloudFront)
 * `api.dhanabandhana.in` → NestJS backend (via EC2 + Nginx)
