@@ -1,5 +1,11 @@
 # Frontend (React)
 
+## 💡 Credits
+
+> This project’s frontend code was completely developed with the help of **GitHub Copilot** and **ChatGPT**, showcasing AI-assisted development
+
+---
+
 ## 🎯 Purpose
 
 The frontend is a React-based web application that:
@@ -22,9 +28,3 @@ The frontend is a React-based web application that:
 ## 🔗 Additional Details
 
 - [dhana-pradarsana-react](https://github.com/bhavikparmar7/dhana-pradarsana-react) — *"pradarsana" means "display" in Sanskrit*
-
----
-
-## 💡 Credits
-
-> This project’s frontend code was completely developed with the help of **GitHub Copilot** and **ChatGPT**, showcasing AI-assisted development
