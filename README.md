@@ -34,7 +34,7 @@ A personal finance web platform that allows users to upload bank/credit card sta
 2. **File saved to S3**, message sent to SQS
 3. **Python processor** picks message, parses file
 4. Raw Transactions saved to **MongoDB**
-5. **User resolves raw transaction** via frontend and saved in **PostgresDB**
+5. **User resolves (categorizes) raw transaction** via frontend and saved in **PostgresDB**
 6. **Frontend fetches data** from backend APIs for display
 
 ## 🔖 Additional Resources
