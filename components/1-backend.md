@@ -4,7 +4,7 @@ The backend is built using **NestJS**, a TypeScript-based framework that powers 
 
 ---
 
-## 🌐 Overview
+## Overview
 
 * Exposes a REST API consumed by the React frontend
 * Secures requests via Firebase ID tokens (phone authentication)
@@ -13,7 +13,7 @@ The backend is built using **NestJS**, a TypeScript-based framework that powers 
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 * **NestJS** (TypeScript)
 * **TypeORM** for PostgreSQL
@@ -23,7 +23,7 @@ The backend is built using **NestJS**, a TypeScript-based framework that powers 
 
 ---
 
-## 🔐 Authentication
+## Authentication
 
 * Firebase Phone Auth used on frontend
 * Frontend passes the **Firebase ID Token** to backend
@@ -31,7 +31,7 @@ The backend is built using **NestJS**, a TypeScript-based framework that powers 
 
 ---
 
-## 🗃️ Databases
+## Databases
 
 ### MongoDB Atlas
 
@@ -45,7 +45,7 @@ The backend is built using **NestJS**, a TypeScript-based framework that powers 
 
 ---
 
-## 🏗️ Deployment
+## Deployment
 
 * Hosted on an **Amazon EC2 instance** in public subnet
 * Reverse proxy via **Nginx** with HTTPS from **Let's Encrypt (Certbot)**
