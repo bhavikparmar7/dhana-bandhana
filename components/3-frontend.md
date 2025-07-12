@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 The frontend is a React-based web application that:
 - Provides an interface to upload and categorize bank/credit card statements
@@ -15,7 +15,7 @@ The frontend is a React-based web application that:
 
 ---
 
-## 🚀 Deployment Details
+## Deployment Details
 
 - Built using **React**, styled with **TailwindCSS** and **shadcn/ui**
 - Hosted on **S3** as a static site
