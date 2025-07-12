@@ -8,9 +8,9 @@ A personal finance web platform that allows users to upload bank/credit card sta
 
 ## 🔗 Linked Repositories
 
-* [Backend (NestJS)](https://github.com/bhavikparmar7/dhana-bandhana-nestjs)
-* [Processor (Python)](https://github.com/bhavikparmar7/dhana-niskarsaka-python)
-* [Frontend (React)](https://github.com/bhavikparmar7/dhana-pradarsana-react)
+* [Backend (dhana-bandhana-nestjs)](https://github.com/bhavikparmar7/dhana-bandhana-nestjs)
+* [Processor (dhana-niskarsaka-python)](https://github.com/bhavikparmar7/dhana-niskarsaka-python)
+* [Frontend (dhana-pradarsana-react)](https://github.com/bhavikparmar7/dhana-pradarsana-react)
 
 ## 📦 Project Components
 
