@@ -1,10 +1,10 @@
-# 🧪 Sample Usage Guide
+# Sample Usage Guide
 
 This guide walks you through trying out the Dhana Bandhana application using a sample user (Chota Bheem).
 
 ---
 
-## 👤 Sample User Details
+## Sample User Details
 
 Use the following credentials in the hosted app to explore features:
 
@@ -13,7 +13,7 @@ Use the following credentials in the hosted app to explore features:
 
 ---
 
-## 📂 Upload Sample Statement
+## Upload Sample Statement
 
 1. Go to the **File Statement** page.
 2. Click on **Upload File**.
@@ -21,7 +21,7 @@ Use the following credentials in the hosted app to explore features:
 
 ---
 
-## 🔍 Review Raw Transactions
+## Review Raw Transactions
 
 After upload:
 - View parsed data from the uploaded file.
@@ -32,7 +32,7 @@ You can:
 
 ---
 
-## 📊 Balance Sheet
+## Balance Sheet
 
 1. Navigate to **Balance Sheet** for insights and summaries.
 
