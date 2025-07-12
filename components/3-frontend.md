@@ -25,6 +25,6 @@ The frontend is a React-based web application that:
 
 ---
 
-## 🔗 Additional Details
+## 🔗 Additional Details in Repo
 
 - [dhana-pradarsana-react](https://github.com/bhavikparmar7/dhana-pradarsana-react) — *"pradarsana" means "display" in Sanskrit*
