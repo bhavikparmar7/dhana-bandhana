@@ -1,4 +1,4 @@
-# Dhana Bandhana ₹💰₹
+# Dhana Bandhana ₹
 
 A personal finance web platform that allows users to upload bank/credit card statements, extract transaction data, categorize their transactions, and generate balance sheet via a secure and scalable cloud-based system.
 
