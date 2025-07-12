@@ -4,7 +4,7 @@ A personal finance web platform that allows users to upload bank/credit card sta
 
 ## 🌐 Live Site
 
-* [https://www.dhanabandhana.in](https://www.dhanabandhana.in)
+* [https://www.dhanabandhana.in](https://www.dhanabandhana.in) — *Request to view on Desktop Web for seamless experience*
 
 ## 🔗 Linked Repositories
 
