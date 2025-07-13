@@ -14,6 +14,8 @@ A personal finance web platform that allows users to upload bank/credit card sta
 
 ## 📦 Project Components
 
+<img width="601" height="422" alt="architecture" src="https://github.com/user-attachments/assets/64ffb06c-fd0a-4a54-825d-e57f88644e31" />
+
 ### 1. **Backend API** (NestJS)
 ### 2. **Python Processor**
 ### 3. **Frontend** (React + Firebase)
