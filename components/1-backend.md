@@ -6,9 +6,9 @@ The backend is built using **NestJS**, a TypeScript-based framework that powers 
 
 ## Overview
 
-* Exposes a REST API consumed by the React frontend
+* Exposes REST APIs consumed by the React frontend
 * Secures requests via Firebase ID tokens (phone authentication)
-* Handles user accounts, file metadata, transaction tagging, and finalization
+* Handles user accounts, file metadata, transaction tagging, and reports
 * Connects to **MongoDB Atlas** and **PostgreSQL (RDS)**
 
 ---
